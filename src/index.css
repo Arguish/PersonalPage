@@ -6,3 +6,18 @@ section {
   height: 100vh;
   scroll-snap-align: start;
 }
+
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: antiquewhite;
+  text-shadow: 3px 3px 3px black;
+}
